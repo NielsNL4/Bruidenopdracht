@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6GEiOJQa2mhLrqmD/VQXQ1vgvW0yL15eK/CJCuf2uGR2YYC3L9VHM0aDMzbtXXio8W2PpT57PhoBHGcnZDXtyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Niels\\source\\repos\\Bruidenopdracht\\Bruidenopdracht\\Bruidenopdracht.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niels\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Niels\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
